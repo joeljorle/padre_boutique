@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1576897952 source:/home/joel/Desktop/boutique/Client.cpp
+	"Client.h"
+
+1576904484 /home/joel/Desktop/boutique/Client.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+
+1576902178 /home/joel/Desktop/boutique/Produit.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1576899307 source:/home/joel/Desktop/boutique/Commande.cpp
+
+1577867604 source:/home/joel/Desktop/boutique/main.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Client.h"
+	"Commande.h"
+
+1576899379 source:/home/joel/Desktop/boutique/Produit.cpp
+	"Produit.h"
+
+1577865459 /home/joel/Desktop/boutique/Magasin.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Commande.h"
+	"Client.h"
+
+1577864359 /home/joel/Desktop/boutique/Commande.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Client.h"
+
+1580398964 source:/home/joel/Documents/padre/boutique/main.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Client.h"
+	"Commande.h"
+
+1580211448 /home/joel/Documents/padre/boutique/Magasin.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Commande.h"
+	"Client.h"
+
+1580399148 /home/joel/Documents/padre/boutique/Produit.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1580398984 /home/joel/Documents/padre/boutique/Commande.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+	"Client.h"
+
+1580399026 /home/joel/Documents/padre/boutique/Client.h
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Produit.h"
+
